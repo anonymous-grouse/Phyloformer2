@@ -1,0 +1,7 @@
+pretrained filter=lfs diff=lfs merge=lfs -text
+pretrained/pf2.tch filter=lfs diff=lfs merge=lfs -text
+pretrained/pf2_base.tch filter=lfs diff=lfs merge=lfs -text
+pretrained/pf2_cherry.tch filter=lfs diff=lfs merge=lfs -text
+pretrained/pf2_pastek.tch filter=lfs diff=lfs merge=lfs -text
+pretrained/pf2_potts.tch filter=lfs diff=lfs merge=lfs -text
+pretrained/pf2_revbayes.tch filter=lfs diff=lfs merge=lfs -text
